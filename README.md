@@ -71,4 +71,4 @@ const displayDogs = searchedDogs ?? dogs;
 
 ## 📸 Preview
 
-![PawGallery Screenshot](./assets/Screenshot.png)
+![PawGallery Screenshot](https://raw.githubusercontent.com/Delnazmatin/PawGallery/refs/heads/main/src/assets/Screenshot.png)
