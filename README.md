@@ -68,3 +68,7 @@ const displayDogs = searchedDogs ?? dogs;
 - Separation of UI and data logic
 - Reusable Card component
 - Controlled search input
+
+## 📸 Preview
+
+![PawGallery Screenshot](./assets/screenshot.png)
